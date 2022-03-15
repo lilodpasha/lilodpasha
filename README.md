@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lilodpasha
+- 👋 Hi, I’m Lilo Pasha
 - 👀 I’m interested in Product Design
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on freelance projects
+- 📫 Reach me at lilodpasha@yahoo.com by email
 
 <!---
 lilodpasha/lilodpasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
